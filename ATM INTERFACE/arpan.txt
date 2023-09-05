@@ -1,0 +1,11 @@
+2100
+arpan dutta
+arpan
+1234
+0
+Rs.(+100) :: 14/08/2023 22:11:09 :: Self Deposit 
+Rs.(+50) :: 14/08/2023 22:11:54 :: Transferred from ishanu (ishanu goswami)
+Rs.(+1000) :: 14/08/2023 22:31:35 :: Self Deposit 
+Rs.(-50) :: 14/08/2023 22:32:13 :: Transferred to ishanu (ishanu goswami)
+Rs.(+500) :: 14/08/2023 23:23:00 :: Transferred from ishanu (ishanu goswami)
+Rs.(+500) :: 14/08/2023 23:26:24 :: Transferred from ishanu (ishanu goswami)
